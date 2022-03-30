@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,9 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+# This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Budget-Tracker
-This app using React, bootstrap and can create multiple budgets and you can add expenses oe delete them as well. 
-This app I learned watch Tutorials on Youtube, which was pretty easy to follow. 
->>>>>>> c77bae21ff18b0b4734dc15de1ea4176e9894a1f
+
+#This app using React, bootstrap and can create multiple budgets and you can add expenses oe delete them as well.
+#This app I learned watch Tutorials on Youtube, which was pretty easy to follow.
