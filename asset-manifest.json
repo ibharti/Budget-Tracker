@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ibharti/Budget-Tracker/static/css/main.1a8a0596.css",
+    "main.js": "/ibharti/Budget-Tracker/static/js/main.80cecefe.js",
+    "index.html": "/ibharti/Budget-Tracker/index.html",
+    "main.1a8a0596.css.map": "/ibharti/Budget-Tracker/static/css/main.1a8a0596.css.map",
+    "main.80cecefe.js.map": "/ibharti/Budget-Tracker/static/js/main.80cecefe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.80cecefe.js"
+  ]
+}
