@@ -8,4 +8,4 @@ Dependencies
     -bootstrap
     -uuid
 Learnings
-    undertanding the react environment and using bootstrap to add in all the styling. 
+    understanding react environment and using bootstrap to add in all the styling. 
